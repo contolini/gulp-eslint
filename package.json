@@ -48,7 +48,7 @@
   ],
   "dependencies": {
     "bufferstreams": "1.0.1",
-    "eslint": "^0.15.0",
+    "eslint": "es6jsx",
     "gulp-util": "^3.0.1",
     "object-assign": "^2.0.0",
     "optional": "^0.1.2",
